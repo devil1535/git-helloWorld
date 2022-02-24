@@ -1,0 +1,7 @@
+c:\users\anirb\source\repos\DemoApp\DemoApp\bin\Debug\DemoApp.exe.config
+c:\users\anirb\source\repos\DemoApp\DemoApp\bin\Debug\DemoApp.exe
+c:\users\anirb\source\repos\DemoApp\DemoApp\bin\Debug\DemoApp.pdb
+c:\users\anirb\source\repos\DemoApp\DemoApp\obj\Debug\DemoApp.csprojAssemblyReference.cache
+c:\users\anirb\source\repos\DemoApp\DemoApp\obj\Debug\DemoApp.csproj.CoreCompileInputs.cache
+c:\users\anirb\source\repos\DemoApp\DemoApp\obj\Debug\DemoApp.exe
+c:\users\anirb\source\repos\DemoApp\DemoApp\obj\Debug\DemoApp.pdb
